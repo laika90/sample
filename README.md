@@ -1,1 +1,2 @@
 # sample
+・git add test
