@@ -1,2 +1,5 @@
 # sample
-・git add test
+* git add test
+
+# こんにちは
+
