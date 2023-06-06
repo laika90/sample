@@ -4,6 +4,7 @@ import asyncio
 from mavsdk import System
 
 aaaaaaaaaaaaaa
+bbbbbbbb
 
 # async def run():
 #     # Connect to the drone
